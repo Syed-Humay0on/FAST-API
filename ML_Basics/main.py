@@ -31,5 +31,5 @@ array3 = np.array([
 
 print(array3.ndim)
 print(array3.shape) # output tuple of integers ie (3,3,3) Depth, No. of rows and No. of Columns
-print(array3[2,1,1]) # <-- This is called chain indexing, in this case multi-dimensional indexing which is faster | output 'W'
+print(array3[0,0,1] + array3[1,1,2] + array3[1,1,2] + array3[0,0,1]  ) # <-- This is called chain indexing, in this case multi-dimensional indexing which is faster
 
