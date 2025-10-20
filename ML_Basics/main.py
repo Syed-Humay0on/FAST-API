@@ -13,7 +13,7 @@ print(array)
 print(type(array)) # output ndarray -> n-dimensional array
 
 # 0,1,2 and 3 Dimensional array
-arrayx = np.array('A') # output 0
+arrayX = np.array('A') # output 0
 
 arrayY = np.array(['A', 'B', 'C']) # output 1
 
@@ -30,3 +30,6 @@ array3 = np.array([
 
 
 print(array3.ndim)
+print(array3.shape) # output tuple of integers ie (3,3,3) Depth, No. of rows and No. of Columns
+print(array3[2,1,1]) # <-- This is called chain indexing, in this case multi-dimensional indexing which is faster | output 'W'
+
