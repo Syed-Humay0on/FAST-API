@@ -1,6 +1,6 @@
-![Banner](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+[![Banner](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)](https://fastapi.tiangolo.com/)
 ### FastAPI framework, high performance, easy to learn, fast to code, ready for production
-<hr>
+whrw
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
 
 The key features are:
