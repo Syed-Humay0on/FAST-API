@@ -14,3 +14,4 @@ Easy: Designed to be easy to use and learn. Less time reading docs.
 Short: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
 Robust: Get production-ready code. With automatic interactive documentation.
 Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
+
